@@ -14,7 +14,19 @@ The dataset is collected and scrapped from [Aqar website](https://sa.aqar.fm/). 
 
 -size: size in m^2
 
--propertyage: property age for the house -bedrooms: number of bedrooms -bathrooms: number of bathrooms -livingrooms: number of livingrooms -kitchen: show whether the house have a kitchen or not -garage: show whether the house have a garage or not -driverroom: show whether the house have a driverroom or not 
+-propertyage: property age for the house 
+
+-bedrooms: number of bedrooms 
+
+-bathrooms: number of bathrooms 
+
+-livingrooms: number of livingrooms 
+
+-kitchen: show whether the house have a kitchen or not 
+
+-garage: show whether the house have a garage or not 
+
+-driverroom: show whether the house have a driverroom or not 
 
 -maidroom: show whether the house have a maid_room or not
 
