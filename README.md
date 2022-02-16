@@ -1,6 +1,6 @@
 # saudi_aqar_price_prediction
 
-This project predicts houses prices data, collected from Aqar website. We performed linear regression algorithm to predict the price according to different features the house may have, size, floors, pools, and number of rooms. 
+This project predicts houses prices data, collected from Aqar website. We performed linear regression algorithm to predict the price according to different features the house may have, size, floors, pools,number of rooms and other features. 
 
 ## About the dataset
 
