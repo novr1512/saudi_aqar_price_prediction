@@ -1,8 +1,12 @@
 # saudi_aqar_price_prediction
 
+This project predicts houses prices data, collected from Aqar website. We performed linear regression algorithm to predict the price according to different features the house may have, size, floors, pools, and number of rooms. 
+
 ## About the dataset
 
 The dataset is collected and scrapped from [Aqar website](https://sa.aqar.fm/). The chosen cities are Riyadh, Jeddah, Dammam, and Al-Khobar. This dataset focused on the rental houses.
+
+
 
 ### Dataset Dictionary 
 
