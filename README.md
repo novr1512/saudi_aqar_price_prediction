@@ -58,9 +58,9 @@ The dataset represent the price of housing (Villa, Apartment, and chalet) in dif
     - Jupyter Notebook
 
 #### Libraries: 
-    * Pandas
-    * NumPy 
-    * Matplotlib
-    * Seaborn
-    * Sklearn
-    * Plotly
+    - Pandas
+    - NumPy 
+    - Matplotlib
+    - Seaborn
+    - Sklearn
+    - Plotly
