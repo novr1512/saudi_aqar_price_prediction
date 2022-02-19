@@ -1,14 +1,28 @@
-# saudi_aqar_price_prediction
+# Saudi_Housing_Aqar_Price_Prediction
+## By:
+    * Ahmad Abusabaeen
+    * Awatef Alshehri
+    * Manar Alamr 
+    * Nawaf Alhussain 
+    * Nouf Ali 
 
+
+# Introduction 
 This project predicts houses prices data, collected from Aqar website. We performed linear regression algorithm to predict the price according to different features the house may have, size, floors, pools,number of rooms and other features. 
 
-## About the dataset
 
+## About the dataset
 The dataset is collected and scrapped from [Aqar website](https://sa.aqar.fm/). The chosen cities are Riyadh, Jeddah, Dammam, and Al-Khobar. This dataset focused on the rental houses.
 
 
 
-### Dataset Dictionary 
+### Dataset Description: 
+
+The dataset represent the price of housing (Villa, Apartment, and chalet) in different city in Saudi Arabia
+
+   | Number of features: 25 features/Columns
+   | Number of rows: Approx.: 2974 rows
+   | Names of columns with description and type:
 
 | Columns     | Description                                                        |  
 |-------------|:-------------:                                                     |
@@ -38,5 +52,14 @@ The dataset is collected and scrapped from [Aqar website](https://sa.aqar.fm/). 
 | details     |  shows any additional details from the house owner about the house |
 
     
+### The main technologies and libraries that will be used are: 
+    - Python 
+    - Jupyter Notebook
 
-
+#### Libraries: 
+    * Pandas
+    * NumPy 
+    * Matplotlib
+    * Seaborn
+    * Sklearn
+    * Plotly
