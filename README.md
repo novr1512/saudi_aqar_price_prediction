@@ -20,9 +20,10 @@ The dataset is collected and scrapped from [Aqar website](https://sa.aqar.fm/). 
 
 The dataset represent the price of housing (Villa, Apartment, and chalet) in different city in Saudi Arabia
 
-   - Number of features: 25 features/Columns
-   - Number of rows: Approx.: 2974 rows
-   - Names of columns with description and type:
+   - Number of features:    25 features/Columns
+   - Number of rows:        2974 rows
+
+#### | Names of columns with description and type:
 
 | Columns     | Description                                                        |  
 |-------------|:-------------:                                                     |
