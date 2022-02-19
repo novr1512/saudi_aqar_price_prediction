@@ -1,10 +1,10 @@
 # Saudi_Housing_Aqar_Price_Prediction
 ### By:
-    * Ahmad Abusabaeen
-    * Awatef Alshehri
-    * Manar Alamr 
-    * Nawaf Alhussain 
-    * Nouf Ali 
+    * Ahmad Abusabaeen (https://github.com/Aabusabaeen)
+    * Awatef Alshehri (https://github.com/DrAA2030)
+    * Manar Alamr (https://github.com/ManarSaad)
+    * Nawaf Alhussain (https://github.com/nawafalhussain)
+    * Nouf Ali (https://github.com/novr1512)
 
 
 # Introduction 
